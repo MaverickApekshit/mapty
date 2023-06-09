@@ -8,3 +8,4 @@ The app is built using:
 - CSS
 - Javascript
 - Geolocation API
+- Leaflet library
