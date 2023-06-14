@@ -199,7 +199,6 @@ a:visited {
 }
 
 /* Popup width is defined in JS using options */
-/* Popup width is defined in JS using options */
 .leaflet-popup .leaflet-popup-content-wrapper {
   background-color: var(--color-dark--1);
   color: var(--color-light--2);
