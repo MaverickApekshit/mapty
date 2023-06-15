@@ -9,3 +9,6 @@ The app is built using:
 - Javascript
 - Geolocation API
 - Leaflet library
+- Local storage
+
+Live URL: https://maverickapekshit.github.io/mapty/
